@@ -1,0 +1,20 @@
+h1{
+color:purple;
+font-style: serif;}
+
+h1 div{
+	color: #0000cc;
+	font-style: cursive;
+}
+h2{
+	color: #00ccff
+	font-style:serif;
+}
+h3{ 
+color: #ff0099;
+font-style: fantasy; }
+ol li {
+	font-style: pink;
+}
+h3 ol li {color: #ff99ff}
+div img {height: 150px;}
